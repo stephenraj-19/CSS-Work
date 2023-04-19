@@ -1,0 +1,71 @@
+table{
+    width: 300px;
+    height: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    line-height: 2px;
+    
+}
+#Login{
+    text-indent: 20px;
+  
+}
+button{
+  width: 90%;
+  padding: 8px 8px;
+  }
+  input[type=text]{
+    width: 80%;
+    height: 2px;
+    padding: 10px 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    float: center;
+  }
+  input[type=password]{
+    width: 80%;
+    height: 2px;
+    padding: 10px 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+  }
+  body{
+    background: rgb(174,68,176);
+background: linear-gradient(90deg, rgba(174,68,176,1) 50%, rgba(236,66,155,1) 75%);
+  }
+#continue{
+  background: rgb(171,67,174);
+background: linear-gradient(90deg, rgba(171,67,174,1) 41%, rgba(240,66,158,1) 88%);
+color: white;
+}
+#twitter{
+  background-color:rgb(24,187,252) ;
+  border-radius: 20px;
+  text-align: left;
+  color: white;
+  font-size: 13px;
+}
+#facebook{
+  background-color:rgb(59,89,152);
+  border-radius: 20px;
+  text-align: left;
+  color: white;
+  font-size: 13px;
+  text-indent: 15px;
+  
+}
+#image{
+  width: 20px;
+  float: left;
+}
+#im{
+  width: 15px;
+  float: left;
+}
+#ff{
+  text-indent: 40px;
+}

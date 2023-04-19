@@ -1,0 +1,26 @@
+body{
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 41%, rgba(0,255,115,1) 88%);
+}
+table{
+    background-color: rgb(7,70,61);
+    color: white;
+}
+input[type=text] {
+    width: 90%;
+  padding: 6px 5px;
+  }
+input[type=password] {
+    width: 90%;
+  padding: 6px 5px; 
+}
+button
+{
+    background-color: black;
+    color: aliceblue;
+    width:80%;
+    padding: 10px 3px;
+}
+h2{
+    color: white;
+}

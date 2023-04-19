@@ -1,0 +1,51 @@
+input[type=text] {
+    width: 90%;
+  padding: 5px 5px;
+  border-radius: 10px;
+  }
+  input[type=password] {
+    width: 90%;
+  padding: 5px 5px;
+  border-radius: 10px;
+  }
+  input[type=email] {
+    width: 90%;
+  padding: 5px 5px;
+  border-radius: 10px;
+  }
+  #select{
+    width: 97%;
+  padding: 5px 5px;
+  border-radius: 10px;
+
+  }
+  button{
+    background-color: green;
+    width: 90%;
+  padding: 5px 5px;
+  border-radius: 10px;
+}
+table{
+    width: 30%;
+    line-height: 30px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding: 20px;
+}
+#ta{
+    width:30%;
+}
+textarea{
+    border-radius: 10px;
+    width: 90%;
+}
+#logo{
+    width: 60px;
+    height: 30px;
+    
+}
+body{
+  background: rgb(75,9,121);
+background: linear-gradient(90deg, rgba(75,9,121,1) 41%, rgba(0,228,255,1) 88%);
+}

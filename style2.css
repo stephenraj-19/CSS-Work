@@ -1,0 +1,53 @@
+body {
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEn9r_zdi7YhWW7ehy43QX95pcKiPzf58vgrK_OcfqaFjB66LeNpKeg788aqS_8P-Fyg&usqp=CAU");
+      background-color: #cccccc;
+      background-repeat: no-repeat;
+      background-size: cover; 
+
+    }
+
+
+input[type=text] {
+    width: 90%;
+  padding: 5px 5px;
+  }
+#phone{
+    width: 80%;
+    padding: 5px 5px;
+
+}
+#areacode{
+    width: 80px;
+    padding: 5px 5px;
+}  
+#company{
+    width: 180%;
+    padding: 5px 5px;
+
+}
+#select{
+    width: 180%;
+    padding: 5px 5px;
+}
+
+input[type=email] {
+    width: 180%;
+    padding: 5px 5px;
+
+  } button{
+    width: 150%;
+    padding: 10px 10px;
+    background-color:rgba(14, 241, 14, 0.555);
+  }
+  table{
+    background-color: black;
+    opacity:0.5;
+    color:white;
+
+  }
+  #ta{
+    width: 37%;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  
